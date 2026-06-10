@@ -1,10 +1,10 @@
-# ✨ CyberScan: Full-Stack Asynchronous Network Port Scanner
+#  CyberScan: Full-Stack Asynchronous Network Port Scanner
 
 CyberScan is a modern, multi-tier network security application that transitions a low-level command-line utility into a scalable web application. Built with a high-performance Python FastAPI backend and a sleek, custom-designed JavaScript frontend dashboard, it enables users to securely audit network targets for open TCP ports in real-time.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Multi-Tier Architecture:** Complete decoupling of the backend data engine from the presentation layer.
 * **Low-Level Socket Auditing:** Uses Python's native `socket` library to programmatically initiate TCP handshakes and determine port availability.
@@ -13,7 +13,7 @@ CyberScan is a modern, multi-tier network security application that transitions 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend:** Python 3, FastAPI, Uvicorn, Native Socket Programming
 * **Frontend:** HTML5, CSS3 (Custom Glassmorphism & Animations), JavaScript (ES6+ Async/Fetch API)
@@ -21,7 +21,7 @@ CyberScan is a modern, multi-tier network security application that transitions 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 [ Frontend Dashboard ]
 (HTML5/CSS3/JS Fetch)
@@ -41,7 +41,7 @@ CyberScan is a modern, multi-tier network security application that transitions 
 
 ---
 
-## 🖥️ Local Setup & Deployment
+##  Local Setup & Deployment
 
 Clone the repository to your local development workspace or spin it up inside a cloud container environment:
 
